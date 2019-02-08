@@ -1,0 +1,24 @@
+{
+  "name": "calculator2-electirc-boogaloo",
+  "version": "1.0.0",
+  "description": "Welcome to the weekend challenge!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaldynJIII/calculator2-electric-boogaloo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaldynJIII/calculator2-electric-boogaloo/issues"
+  },
+  "homepage": "https://github.com/WaldynJIII/calculator2-electric-boogaloo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}

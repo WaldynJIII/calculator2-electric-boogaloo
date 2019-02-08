@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser')
 const app = express();
 const PORT = 5000;
-
+let answer = 0
 app.use(bodyParser.urlencoded({ extended: true }))
 
 
